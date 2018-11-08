@@ -1,0 +1,22 @@
+{
+  "name": "i5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itacirgabral/desafio5incremental.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itacirgabral/desafio5incremental/issues"
+  },
+  "homepage": "https://github.com/itacirgabral/desafio5incremental#readme",
+  "dependencies": {
+    "i-json": "^0.1.5"
+  }
+}
