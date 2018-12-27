@@ -1,5 +1,7 @@
 # incJsonTrans
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/itacirgabral/incJsonTrans.svg)](https://greenkeeper.io/)
+
 O [5º desafio](https://osprogramadores.com/desafios/d05/) d'OsProgramadores exige ler json grandes, [o maior](https://www.bcampos.com/Graphs.php) possui 2,5G.
 
 V8 possui um limite padrão de menos de 2G para o uso de memória, não conseguiríamos ler o json inteiro sem mudar esta configuração.
